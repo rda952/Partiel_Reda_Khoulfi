@@ -1,2 +1,3 @@
 ## Contribution
-Merci d’envoyer vos suggestions par email avant toute pull request.
+Merci de soumettre vos suggestions directement via une pull
+request.
